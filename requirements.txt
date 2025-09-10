@@ -1,0 +1,15 @@
+# Flask and Web Server
+flask
+gunicorn
+
+# Core ML/DL Libraries
+--find-links https://download.pytorch.org/whl/cpu
+torch
+torchvision
+ultralytics
+
+# Image & Data Handling
+opencv-python
+pillow
+numpy
+pandas
