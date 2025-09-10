@@ -70,7 +70,7 @@ Since a live deployment on a free tier is challenging due to the high memory req
 *A side-by-side comparison showing the model's effectiveness.*
 | Original Ultrasound Image | Image with AI Detections |
 | :---: | :---: |
-| <img src="input images/img_0_113.jpg" alt="Original Ultrasound" width="350"> | <img src="runs/detect/predict3/image.jpg" alt="Ultrasound with Detections" width="350"> |
+| <img src="input images/img_0_113.jpg" alt="Original Ultrasound" width="350"> | <img src="runs/detect/predict37/image.jpg" alt="Ultrasound with Detections" width="350"> |
 
 ---
 
